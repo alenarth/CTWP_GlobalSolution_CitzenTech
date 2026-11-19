@@ -82,7 +82,7 @@ def validar_config(config: dict) -> None:
 # ---------------------------------------------------------------------------
 # ARQUIVOS JSON
 # ---------------------------------------------------------------------------
-def carregar_json(caminho: str, padrao):
+def carregar_json(caminho: str, padrao: list | dict) -> list | dict:
     """Lê um arquivo JSON. Se ele não existir ou estiver corrompido, devolve 'padrao'."""
     try:
         with open(caminho, encoding="utf-8") as arquivo:
@@ -91,7 +91,7 @@ def carregar_json(caminho: str, padrao):
         return padrao
 
 
-def salvar_json(caminho: str, dados) -> bool:
+def salvar_json(caminho: str, dados: list | dict) -> bool:
     """Grava 'dados' em JSON. Devolve True se conseguiu salvar."""
     try:
         with open(caminho, "w", encoding="utf-8") as arquivo:
@@ -150,7 +150,7 @@ def obter_feeds_com_plano_b(canal: dict) -> tuple:
 # ---------------------------------------------------------------------------
 # MODELO: DE ENTRADAS DO THINGSPEAK PARA LEITURAS
 # ---------------------------------------------------------------------------
-def para_numero(valor) -> float | None:
+def para_numero(valor: str | None) -> float | None:
     """Converte um campo do ThingSpeak em número. Devolve None se vier vazio ou inválido."""
     try:
         return float(valor)
