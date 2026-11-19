@@ -1,0 +1,202 @@
+[
+  {
+    "id": 2,
+    "horario": "2026-11-12 21:10",
+    "medidas": {
+      "taxa_erro": 45.0,
+      "escuridao": 1001.0
+    },
+    "risco": 38.8,
+    "faixa": "NORMAL"
+  },
+  {
+    "id": 3,
+    "horario": "2026-11-16 19:19",
+    "medidas": {
+      "taxa_erro": 55.0,
+      "escuridao": 4063.0
+    },
+    "risco": 68.3,
+    "faixa": "ATENÇÃO"
+  },
+  {
+    "id": 4,
+    "horario": "2026-11-17 20:19",
+    "medidas": {
+      "taxa_erro": 80.0,
+      "escuridao": 4023.0
+    },
+    "risco": 85.5,
+    "faixa": "PERIGO"
+  },
+  {
+    "id": 5,
+    "horario": "2026-11-19 16:20",
+    "medidas": {
+      "taxa_erro": 35.0,
+      "escuridao": 1200.0
+    },
+    "risco": 33.3,
+    "faixa": "NORMAL"
+  },
+  {
+    "id": 6,
+    "horario": "2026-11-19 16:20",
+    "medidas": {
+      "taxa_erro": 30.0,
+      "escuridao": 900.0
+    },
+    "risco": 27.6,
+    "faixa": "NORMAL"
+  },
+  {
+    "id": 7,
+    "horario": "2026-11-19 16:20",
+    "medidas": {
+      "taxa_erro": 45.0,
+      "escuridao": 1500.0
+    },
+    "risco": 42.5,
+    "faixa": "ATENÇÃO"
+  },
+  {
+    "id": 8,
+    "horario": "2026-11-19 16:21",
+    "medidas": {
+      "taxa_erro": 40.0,
+      "escuridao": 2600.0
+    },
+    "risco": 47.0,
+    "faixa": "ATENÇÃO"
+  },
+  {
+    "id": 9,
+    "horario": "2026-11-19 16:21",
+    "medidas": {
+      "taxa_erro": 25.0,
+      "escuridao": 800.0
+    },
+    "risco": 23.4,
+    "faixa": "NORMAL"
+  },
+  {
+    "id": 10,
+    "horario": "2026-11-19 16:21",
+    "medidas": {
+      "taxa_erro": 50.0,
+      "escuridao": 1800.0
+    },
+    "risco": 48.2,
+    "faixa": "ATENÇÃO"
+  },
+  {
+    "id": 11,
+    "horario": "2026-11-19 16:21",
+    "medidas": {
+      "taxa_erro": 60.0,
+      "escuridao": 3000.0
+    },
+    "risco": 64.0,
+    "faixa": "ATENÇÃO"
+  },
+  {
+    "id": 12,
+    "horario": "2026-11-19 16:22",
+    "medidas": {
+      "taxa_erro": 75.0,
+      "escuridao": 3600.0
+    },
+    "risco": 78.9,
+    "faixa": "PERIGO"
+  },
+  {
+    "id": 13,
+    "horario": "2026-11-19 16:22",
+    "medidas": {
+      "taxa_erro": 80.0,
+      "escuridao": 3900.0
+    },
+    "risco": 84.6,
+    "faixa": "PERIGO"
+  },
+  {
+    "id": 14,
+    "horario": "2026-11-19 16:22",
+    "medidas": {
+      "taxa_erro": 55.0,
+      "escuridao": 2200.0
+    },
+    "risco": 54.6,
+    "faixa": "ATENÇÃO"
+  },
+  {
+    "id": 15,
+    "horario": "2026-11-19 16:23",
+    "medidas": {
+      "taxa_erro": 40.0,
+      "escuridao": 1400.0
+    },
+    "risco": 38.3,
+    "faixa": "NORMAL"
+  },
+  {
+    "id": 16,
+    "horario": "2026-11-19 16:23",
+    "medidas": {
+      "taxa_erro": 35.0,
+      "escuridao": 1000.0
+    },
+    "risco": 31.8,
+    "faixa": "NORMAL"
+  },
+  {
+    "id": 17,
+    "horario": "2026-11-19 16:23",
+    "medidas": {
+      "taxa_erro": 30.0,
+      "escuridao": 900.0
+    },
+    "risco": 27.6,
+    "faixa": "NORMAL"
+  },
+  {
+    "id": 18,
+    "horario": "2026-11-19 16:23",
+    "medidas": {
+      "taxa_erro": 45.0,
+      "escuridao": 2000.0
+    },
+    "risco": 46.2,
+    "faixa": "ATENÇÃO"
+  },
+  {
+    "id": 19,
+    "horario": "2026-11-19 16:24",
+    "medidas": {
+      "taxa_erro": 55.0,
+      "escuridao": 2600.0
+    },
+    "risco": 57.5,
+    "faixa": "ATENÇÃO"
+  },
+  {
+    "id": 20,
+    "horario": "2026-11-19 16:24",
+    "medidas": {
+      "taxa_erro": 65.0,
+      "escuridao": 3300.0
+    },
+    "risco": 69.7,
+    "faixa": "ATENÇÃO"
+  },
+  {
+    "id": 21,
+    "horario": "2026-11-19 16:24",
+    "medidas": {
+      "taxa_erro": 80.0,
+      "escuridao": 3800.0
+    },
+    "risco": 83.8,
+    "faixa": "PERIGO"
+  }
+]
