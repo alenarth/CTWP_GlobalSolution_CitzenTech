@@ -22,7 +22,7 @@
 |---|---|
 | Simulação no Wokwi | https://wokwi.com/projects/479911399606222849 |
 | Canal público no ThingSpeak | https://thingspeak.com/channels/3568353 |
-| Vídeo do pitch | [cole aqui o link do YouTube] |
+| Vídeo do pitch | https://www.youtube.com/watch?v=Oc4OHlXjvLs |
 
 ### O que cada parte faz
 
