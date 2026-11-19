@@ -34,7 +34,7 @@
 | Interface | Front-end Design | [GS-front-end](https://github.com/annaju507/GS-front-end) | As telas em React que o cidadão usa |
 | Experiência | Software & Total Experience Design | entregue no Teams | A jornada, os requisitos, as regras de negócio e o backlog |
 | Interação | Web Development | [GS-front-end](https://github.com/annaju507/GS-front-end) | O JavaScript da página, com interações e modo claro/escuro |
-| Pitch | Storytelling & Inspiração Empreendedora | — | [cole aqui o link do YouTube] |
+| Pitch | Storytelling & Inspiração Empreendedora | — | https://www.youtube.com/watch?v=Oc4OHlXjvLs |
 
 ## Equipe
 
